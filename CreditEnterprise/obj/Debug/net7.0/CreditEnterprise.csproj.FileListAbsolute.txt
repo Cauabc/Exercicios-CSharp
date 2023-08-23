@@ -1,0 +1,15 @@
+C:\Users\Caua\Desktop\CreditEnterprise\bin\Debug\net7.0\CreditEnterprise.exe
+C:\Users\Caua\Desktop\CreditEnterprise\bin\Debug\net7.0\CreditEnterprise.deps.json
+C:\Users\Caua\Desktop\CreditEnterprise\bin\Debug\net7.0\CreditEnterprise.runtimeconfig.json
+C:\Users\Caua\Desktop\CreditEnterprise\bin\Debug\net7.0\CreditEnterprise.dll
+C:\Users\Caua\Desktop\CreditEnterprise\bin\Debug\net7.0\CreditEnterprise.pdb
+C:\Users\Caua\Desktop\CreditEnterprise\obj\Debug\net7.0\CreditEnterprise.csproj.AssemblyReference.cache
+C:\Users\Caua\Desktop\CreditEnterprise\obj\Debug\net7.0\CreditEnterprise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caua\Desktop\CreditEnterprise\obj\Debug\net7.0\CreditEnterprise.AssemblyInfoInputs.cache
+C:\Users\Caua\Desktop\CreditEnterprise\obj\Debug\net7.0\CreditEnterprise.AssemblyInfo.cs
+C:\Users\Caua\Desktop\CreditEnterprise\obj\Debug\net7.0\CreditEnterprise.csproj.CoreCompileInputs.cache
+C:\Users\Caua\Desktop\CreditEnterprise\obj\Debug\net7.0\CreditEnterprise.dll
+C:\Users\Caua\Desktop\CreditEnterprise\obj\Debug\net7.0\refint\CreditEnterprise.dll
+C:\Users\Caua\Desktop\CreditEnterprise\obj\Debug\net7.0\CreditEnterprise.pdb
+C:\Users\Caua\Desktop\CreditEnterprise\obj\Debug\net7.0\CreditEnterprise.genruntimeconfig.cache
+C:\Users\Caua\Desktop\CreditEnterprise\obj\Debug\net7.0\ref\CreditEnterprise.dll

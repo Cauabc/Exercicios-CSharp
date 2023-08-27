@@ -1,4 +1,5 @@
-﻿using CreditEnterprise.Class;
+using System;
+using CreditEnterprise.Class;
 
 Console.Write("Informe o número do contrato: ");
 int ContractNumber = int.Parse(Console.ReadLine());
@@ -18,3 +19,5 @@ double value = c1.GetPortion();
 Invoice i1 = new(TimeNow, ContractPortion, value);
 
 i1.GenerateInvoice();
+
+

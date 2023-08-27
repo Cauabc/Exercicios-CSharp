@@ -23,7 +23,7 @@ namespace CreditEnterprise.Class
             for (int i = 1; i <= _portionAmount; i++)
             {
                 _timeNow = _timeNow.AddDays(30);
-                Console.WriteLine($"Data para pagar {i}° Parcela: {_timeNow}");
+                Console.WriteLine($"Data para pagar {i}° Parcela: {_timeNow.ToShortDateString()}");
                 Console.WriteLine($"Valor da parcela: R${_value:F}");
                 Console.WriteLine("\n");
             }
